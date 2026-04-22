@@ -45,13 +45,13 @@ the 3 pairs from end signify `others` , `group` and `user` permissions from end
 
 if seen from start - `user`, `group` , `others`
 
-![image.png](attachment:1075866f-ec26-4d83-a6dc-b0f8b4c2e8cb:image.png)
+![alt text](img-1.png)
 
 `-` means no permission, `r` - read, `w` - write, `x` - execute permissions
 
 ### decoding file permissions with truth table
 
-![image.png](attachment:e3314812-e497-4f09-981a-bb4ce1b33402:image.png)
+![alt text](img-2.png)
 
 `For example, to keep read only we keep`  have 400
 
